@@ -1,2 +1,7 @@
 env/
 chromedriver
+.ipynb_checkpoints/
+
+*.csv
+*.png
+*.jpg
