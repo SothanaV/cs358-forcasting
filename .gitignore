@@ -1,7 +1,10 @@
 env/
 chromedriver
 .ipynb_checkpoints/
+__MACOSX/
+dataset_customs/
 
 *.csv
 *.png
 *.jpg
+*.zip
