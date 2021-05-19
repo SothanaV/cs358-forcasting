@@ -20,6 +20,20 @@ gcloud auth login
 # mount
 gcsfuse --implicit-dirs <my-bucket> </path/to/mount>
 
+gcsfuse --implicit-dirs cs358-project ./bucket
+
+
 # unmount
 fusermount -u /path/to/mount
 ```
+
+# git crash
+```
+rm -f .git/index.lock
+```
+
+# insert data to BQ
+ref https://cloud.google.com/bigquery/streaming-data-into-bigquery
+
+# query data in BQ
+ref https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries
