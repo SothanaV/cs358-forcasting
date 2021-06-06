@@ -3,6 +3,7 @@ chromedriver
 .ipynb_checkpoints/
 __MACOSX/
 dataset_customs/
+bucket/
 
 *.csv
 *.png
