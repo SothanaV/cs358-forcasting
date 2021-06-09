@@ -33,7 +33,16 @@ rm -f .git/index.lock
 ```
 
 # insert data to BQ
+
+insert data<br>
 ref https://cloud.google.com/bigquery/streaming-data-into-bigquery
+
+create schema<br>
+ref https://cloud.google.com/bigquery/docs/tables
 
 # query data in BQ
 ref https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries
+
+# sklearn
+partial_fit<br>
+ref https://scikit-learn.org/0.15/modules/scaling_strategies.html
